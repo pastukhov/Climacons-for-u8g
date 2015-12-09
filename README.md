@@ -7,3 +7,5 @@ otf2bdf -p (icon size)  climacons-webfont.ttf -o climacons-webfont_(icon size).b
 bdf2u8g -l 448  climacons-webfont_(icon size).bdf u8g_font_climacons(icon size)  u8g_font_climacons(icon size).c
 
 ```
+
+Icons are located between 32 and 73 symbol
